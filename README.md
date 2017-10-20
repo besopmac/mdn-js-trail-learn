@@ -1,1 +1,1 @@
-# mdn-js-trail-learn
+# MDN's JavaScript Learning Trail
