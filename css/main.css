@@ -1,5 +1,4 @@
 @import url('https://fonts.googleapis.com/css?family=Lato');
-
 * {
     box-sizing: border-box;
 }
@@ -9,11 +8,16 @@ body {
     background-color: #eee;
     font: 16px/1.5 'Lato', sans-serif;
 }
+
 .container {
     padding: 2.5em;
     text-align: center;
     border-radius: .25rem;
     background-color: #fff;
-    box-shadow: 0 2px 5px rgba(0,0,0,.05);
+    box-shadow: 0 2px 5px rgba(0, 0, 0, .05);
 }
-  
+
+img {
+    display: block;
+    margin: 5% auto;
+}
